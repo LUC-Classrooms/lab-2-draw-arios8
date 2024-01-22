@@ -3,7 +3,10 @@ function setup(){
 }
 
 function draw(){
-  background(200);
+  background(176, 228, 247);
   // add your drawing code here ...
-  ellipse(100.100);
+  stroke(50,50)
+  ellipse(150,150,50)
+
+
 }
