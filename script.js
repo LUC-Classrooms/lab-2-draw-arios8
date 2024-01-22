@@ -5,5 +5,5 @@ function setup(){
 function draw(){
   background(200);
   // add your drawing code here ...
-  elipse(100.100);
+  ellipse(100.100);
 }
